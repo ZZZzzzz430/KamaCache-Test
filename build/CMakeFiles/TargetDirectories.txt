@@ -1,0 +1,3 @@
+/home/zhang/code/Poject/KamaCache-Test/build/CMakeFiles/main.dir
+/home/zhang/code/Poject/KamaCache-Test/build/CMakeFiles/edit_cache.dir
+/home/zhang/code/Poject/KamaCache-Test/build/CMakeFiles/rebuild_cache.dir
